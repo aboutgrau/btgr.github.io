@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>aboutgrau</title>
+ <link href="https://aboutgrau.com/atom.xml" rel="self"/>
+ <link href="https://aboutgrau.com/"/>
+ <updated>2023-04-22T16:29:41+02:00</updated>
+ <id>https://aboutgrau.com</id>
+ <author>
+   <name>aboutgrau</name>
+   <email>mail@aboutgrau.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Publish Markdown</title>
+   <link href="https://aboutgrau.com/publish-markdown.html"/>
+   <updated>2023-04-15T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/Publish-Markdown</id>
+   <content type="html">&lt;p&gt;We’re in 2023 and it’s still surprisingly hard to publish a simple Markdown .md text file as part of a blog on the internet. I did a bit of research what tools are out there and how difficult all these different setups are. And honestly I’m pretty shocked and disappointed that for me with very little programming skills it’s more or less impossible to get what I really want.&lt;/p&gt;
+
+&lt;p&gt;Are my demands really that special? All I want is to write some Markdown .md files in the &lt;a href=&quot;https://obsidian.md&quot;&gt;Obsidian app&lt;/a&gt; locally on my Mac. But really it could be any markdown editor. I then want to magically transform these texts into some HTML files and upload them to my existing blog.&lt;/p&gt;
+
+&lt;p&gt;Currently I use the &lt;a href=&quot;https://getkirby.com&quot;&gt;Kirby CMS&lt;/a&gt; and its own webeditor to compose and publish my writings. This certainly is an ok workflow. I guess the time I first started thinking about changing my setup here is when I first tried and explored the Obsidian App on my Mac. I found out how much I can do with it and started questioning my original approach.&lt;/p&gt;
+
+&lt;p&gt;I know there’s &lt;a href=&quot;https://obsidian.md/publish&quot;&gt;Obsidian Publish&lt;/a&gt;, a paid service to publish your writings, your complete vault, on the internet. And I guess without having tried this feature, this would be a way to go for me. But honestly 20 USD per month for just a publishing service is quite a lot of money. You could argue that the Obsidian app itself is free and they need to make money by adding additional paid services around their core product. I can see that and it’s reasonable, even though it would be more straightforward for me to make Obsidian a paid app upfront and include all the necessary services. Anyway 20 USD just for publishing is not right for me.&lt;/p&gt;
+
+&lt;p&gt;I also looked back to the days when I still was a teenager when &lt;a href=&quot;https://www.adobe.com/products/dreamweaver.html&quot;&gt;Dreamweaver&lt;/a&gt; was the way to go to publish content on the internet. I did a little bit of research here as well, if there are any WYSIWYG HTML editors out there that are worth mentioning. Indeed there are a few options like &lt;a href=&quot;https://nova.app&quot;&gt;Nova&lt;/a&gt; or &lt;a href=&quot;https://blocsapp.com&quot;&gt;Blocs&lt;/a&gt; or &lt;a href=&quot;https://www.realmacsoftware.com/rapidweaver/&quot;&gt;Rapidweaver&lt;/a&gt;. But it still seems to be true that they all can produce quite messy code and then again, it’s not really what I wanted to begin with. I mean, using the Kirby CMS, I already have my Panel, my online dashboard to visually manage my site. So these visual editors really don’t solve any of my current problems.&lt;/p&gt;
+
+&lt;p&gt;So I started looking for alternatives. And rather quickly it gets really complicated here. I even don’t fully understand what I’m writing here about. So there are these static website generators out there. These are tools that run locally on your machine and indeed transform .md text files into HTML code. They use templates that you can then tweak(?) to refine what you end up getting. This is exactly what I would want, right? The downside here, and it’s a huge downside for me, is that you need to be fluent in using the command line tool on your machine. Even the process of installing those generators requires some basic programming skills, weird additional tools and &lt;a href=&quot;https://brew.sh&quot;&gt;package managers&lt;/a&gt;, that obviously I don’t have and don’t dare to use. All those quick install guides that require dozen of steps and code inputs to get the service started are sadly too sophisticated for me. This fact makes me really sad, honestly. I wish I would be better at this. But I guess the necessary trade offs for me to learn all those programming skills were always too high. I’m a very visual person, this is where my real skillsets are, so probably there’s not enough room for both worlds. So I’m here in 2023 and only know about some basic HTML and CSS. But I don’t even understand what &lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;Ruby&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Java_%28programming_language%29&quot;&gt;Java&lt;/a&gt;, &lt;a href=&quot;https://nodejs.org/en&quot;&gt;Node.js&lt;/a&gt; are and what they are best used for. I’m pretty lost here. But definitely generators like &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; or &lt;a href=&quot;https://gohugo.io&quot;&gt;Hugo&lt;/a&gt; are very interesting to me, it’s too bad I’m not able to use them, I’m not even capable of installing them.&lt;/p&gt;
+
+&lt;p&gt;So I guess at the end of these ramblings the place I currently am is still the right one for me. I can use the GUI of my CMS on my webhost. With quite a bit of try and error I was even able to install this CMS and are able to maintain it myself. And I guess this approach of autonomy is rather important to me. Probably even more important than having a streamlined but complicated workflow of getting my plain .md text files out into the world.&lt;/p&gt;
+
+&lt;p&gt;I mentioned a few tools here, that I’ve been stumbling upon while browsing the internet. Obviously there are way more resources out there, that I haven’t tried or mentioned. Let me know if I’m missing something here. I’m still curious to find some straightforward solutions for this seemingly rather simple but obviously very hard problem.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Clay</title>
+   <link href="https://aboutgrau.com/clay.html"/>
+   <updated>2023-04-12T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/Clay</id>
+   <content type="html">&lt;p&gt;When going for a walk on weekends or in my spare time I tend to explore always the same spots. There’s a handful of tracks that I usually prefer to walk along. In a way it’s relaxing to know what’s coming next. You don’t have to look on a map continuously to find your way or not to miss the next turn. I fell into the habit of listening to podcasts while walking, so these little timeouts are refreshing for the mind as well as for the body. But honestly besides the weather, which can be quite different all through the year, there’s not much happening there. But I enjoy this unagitated calmness.&lt;/p&gt;
+
+&lt;p&gt;I realize that I become more focused on the little things, the tiny details, while I’m always aware of the same bigger picture. Most of the things I find during these walks are mundane. There are many trees as I tend to walk somewhere in the forest. There’s the gravel under my shoes. There are bushes and from time to time there are a few flowers as well. Sometimes I meet strangers with their dogs or with their bikes. Sometimes I’m completely alone for almost an hour.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/clay01.jpg&quot; alt=&quot;gustave&quot; /&gt;
+&lt;em&gt;1/99 s, f/2.2, ISO 80, 64 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess in an environment like this even the smallest things or changes become little sensations. So I was quite excited as one day some big machines were working alongside my way digging in the earth for some roadworks. They do similar things like this from time to time. The forests here are usually used as commercial forests, over time and piece by piece all the trees are cut down and later are reforested again. So they are building roads and tracks through the forest to keep the wilderness there accessible. Which certainly is good for people like me who want to take a relaxing walk through the forest without having to make my hands dirty while paving my way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/clay02.jpg&quot; alt=&quot;mortimer&quot; /&gt;
+&lt;em&gt;1/99 s, f/2.2, ISO 80, 64 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The really interesting part for me happened when all the machines were gone again a couple of days or weeks later. Then it was possible to have an unobstructed view on the soil which in this region is often pure, natural clay. As I came closer to have a look I could see all these different colors of the clay. Some parts were just red, other parts where more yellow, even golden or silver. It was slightly raining on this particular day, so the colors were even more shimmering and crisp. This tiny little event was so fascinating to me. It felt to me that there’s so much beauty underneath what’s usually hidden and unaccessible. I started to take many photos of these different shades of the clay. I was really hooked.&lt;/p&gt;
+
+&lt;p&gt;I don’t know if this scene was really that beautiful and exciting but to me in that specific moment, it certainly felt remarkable. Remember I’m usually quite familiar with all the bits and pieces alongside these trails. And now something like this building site happened. The big diggers and trucks were gone and while I was already preparing myself for some annoying conflicts of nature versus machine I found new, totally unexpected beauty in these newly shaped holes and trenches alongside my way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/clay03.jpg&quot; alt=&quot;mortimer&quot; /&gt;
+&lt;em&gt;1/99 s, f/2.2, ISO 160, 64 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And I couldn’t get enough of them. With the camera in my hand I almost felt like a painter continuously framing new pieces of art. I ran up and down these newly shaped trenches and tried different angles and distances. Later at home I found out that I haven’t taken a single shot of the whole scene, so my set was completely out of context, almost out of this world. Looking at all my images they also could be taken on Mars or some other distant planet. But I was so focused and concentrated on all these tiny color changes, the different shades and forms that I completely forgot to take a step back and capture the location itself. To be honest the location is pretty boring, especially for me, as I’m very used to these views. So you don’t have missed much.&lt;/p&gt;
+
+&lt;p&gt;Later at home while browsing through my photographs I thought of food and different flavors and very instinctively came up with names, personal names, of what I saw in front of my eyes. That’s where the original idea for this “clay” series comes from. For whatever reason I came up with British and French names as they seemed to sound like these very old textures of the soil. They felt like history, like reading in an old book and learning about some ancient times, places and conditions that are now long gone. I came up with names like “Mortimer”, “Francois”, “William” or “Victor”. Interestingly I stuck with male names exclusively, I just couldn’t think of any female names that would describe what I saw and felt. I guess if I would have taken pictures of beautiful flowers it would have been much easier for me to think of female names, but in this case my feelings were more serious, old school, full of dignity in a way. And male names just seemed to fit here.&lt;/p&gt;
+
+&lt;p&gt;For this post I decided to strip away the lower text parts of these images and just show the plain textures to focus even more on those things that have fascinated me so much. On my social media accounts I have already shared parts of these images, but only with the additional text portions. So I hope you enjoy this writing here, explaining in more detail why I got hooked so much on these images.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vulnerability</title>
+   <link href="https://aboutgrau.com/vulnerability.html"/>
+   <updated>2023-03-16T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/Vulnerability</id>
+   <content type="html">&lt;p&gt;Mountains are incredible. They have always been there since the beginning of time. They will always be there until the end of time. They don’t change. They are eternal. In fact there are only a few places left where you can think of planet earth as something that is stable and reliable. Stable like a rock, durable like a stone.&lt;/p&gt;
+
+&lt;p&gt;Mountains are hard to reach, there are many obstacles on the way up, the conditions are rough, the local climate is all too often a mixed bag, at best. Maybe therefore mountains are still places of solitude and contemplation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/vulnerability01.jpg&quot; alt=&quot;vulnerability&quot; /&gt;
+&lt;em&gt;1/10000 s, f/1.6, ISO 32, 26 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s hard to stand on top of a mountain and not to feel amazed, fascinated, intimidated and thankful. Your mind and soul start to feel overwhelmed by thousands of very basic questions turning into deeper thoughts about ourselves, about humanity, about nature, maybe even about God. There might be a reason why every significant summit seems to be equipped with some sort of cross or other religious symbol. A little bit of heaven on earth.&lt;/p&gt;
+
+&lt;p&gt;So far there are no news. All these impressions have always been like that, they’ve been the same for thousands of years, way longer than anyone of us can think back. So it’s hard to accept that change is even happening up here, in the regions of eternal ice and snow. You might think what forces on earth are strong enough to change a mountain, change this given and incredibly mighty landscape of impressive ups and downs. You might think that of course now people are climbing on the top of Mount Everest like ants. But it’s only very local, right? You might think that millions of skiers and snowboarders demand easy access to their slopes and ski runs and thousands of ski lifts and snow cannons needed to be installed to keep big tourism going. You’re not wrong, but compared to the vastness of these mountainscapes even high capacity cableways look tiny and cute from a distance, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/vulnerability02.jpg&quot; alt=&quot;vulnerability&quot; /&gt;
+&lt;em&gt;1/1916 s, f/2.4, ISO 25, 14 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The one terrifying thing I learned this year is that climate change can happen right in front of your eyes, that it can become visible and tangible. Scientists tell us about this rapid change over and over again and they do it for decades now. &lt;em&gt;“The Limits of Growth”&lt;/em&gt; report commissioned by the Club of Rome dates back to 1972, these are more than 50 years now, that’s half a century! But obviously it’s one thing to read and hear about a thing or to actually experience it with your own eyes, your own hands, your own skin. We still inhabit planet earth like tiny ants. But we are many and we become more and more. And we don’t live in anthills anymore, we don’t just walk anymore and we don’t cultivate and eat just mushrooms anymore. We have transformed. We have become a different species, we’ve become technologically upgraded, we’ve become &lt;em&gt;“Borgs”&lt;/em&gt; but not in the Star Trek universe but here on planet earth in 2023. And we not only exhale CO2 anymore, we produce it in gigatons. Everywhere. It’s impressive what we have achieved, how far we have come, but the consequences are now undeniable and intimidating.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/vulnerability03.jpg&quot; alt=&quot;vulnerability&quot; /&gt;
+&lt;em&gt;1/3650 s, f/2.2, ISO 25, 64 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And those consequences seem to become most prominent in the most distant and most fragile regions of the world first. Look at Antartica, look at the deep sea, look at the tundra and finally look at those high altitude regions of the mountains. That’s where the glaciers are, or better, where they used to be. Today’s look at these structures of white snow and twinkling blue ice that are millions of years old is incredibly heartbreaking. Their losses over the last couple of years are not only visible, they are gigantic, catastrophic. I’ve never in my whole life have experienced the mightiness of mankind in such a manifest way. &lt;em&gt;“Wow, we are mighty indeed”&lt;/em&gt; and &lt;em&gt;“wow, we are so doomed”&lt;/em&gt; are those two thoughts that have flashed through my brain simultaneously while looking down on the &lt;em&gt;Gorner Glacier&lt;/em&gt;, the &lt;em&gt;Theodul Glacier&lt;/em&gt; and the &lt;em&gt;Findel Glacier&lt;/em&gt;, all in the area of Zermatt, Switzerland, in February 2023.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/vulnerability04.jpg&quot; alt=&quot;vulnerability&quot; /&gt;
+&lt;em&gt;1/12048 s, f/1.6, ISO 32, 26 mm, iPhone 12 Pro Max&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve taken pictures, sure, now and some a couple of years back. You can look at them. On your tiny phone screen. Sure, you might identify some changes. But I’m not even sure if those changes you might experience are really part of the bigger problem or are just artifacts of different seasons or different snow conditions. You always will find excuses, right? But believe me, looking at a photograph is one thing, standing up there and almost physically feel the immense amount of weight of these streams of blue and heroic ice folding and bending like cardboard is something completely different.&lt;/p&gt;
+
+&lt;p&gt;The pictures I decided to include here prove nothing. They are a beautification of the world I was surrounded by at a given moment in time. I show them here to raise awareness that beautiful things exist and that some of them (all of them) need protection. We are a beautiful race, attracted and driven by beauty. It’s hard to name other values that create more propulsion and drive. Beauty is part of our core identity. So if we don’t stand up and become active because we should maybe it’s easier to stand up and advocate for things we actually want.&lt;/p&gt;
+
+&lt;p&gt;I’m incredibly thankful that I was able to be there, that I was able to look at something that will change the world, probably for forever. I’m thankful for this opportunity. But I know that not all people in the world will be able to do the same trip, that they simply can’t experience what I saw for a variety of reasons. And it’s exactly their voices that will matter in the end. So this short text, these photos are for them, for you, out there in the midst of an artificial anthill. Let’s try changing the world. Again. And together.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Difference between font formats</title>
+   <link href="https://aboutgrau.com/difference-between-font-formats.html"/>
+   <updated>2019-08-31T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/difference-between-font-formats</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Staticman comments on a Jekyll site</title>
+   <link href="https://aboutgrau.com/staticman-comments-on-a-jekyll-site.html"/>
+   <updated>2019-07-23T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/staticman-comments-on-a-jekyll-site</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Adding HTTP response headers to a Netlify static website</title>
+   <link href="https://aboutgrau.com/adding-http-response-headers-to-a-netlify-static-website.html"/>
+   <updated>2019-05-23T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/adding-http-response-headers-to-a-netlify-static-website</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Syntax highlight with Rouge in Jekyll</title>
+   <link href="https://aboutgrau.com/syntax-highlight-with-rouge-in-jekyll.html"/>
+   <updated>2018-12-23T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/syntax-highlight-with-rouge-in-jekyll</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Page specific assets in Jekyll</title>
+   <link href="https://aboutgrau.com/page-specific-assets-in-jekyll.html"/>
+   <updated>2018-11-12T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/page-specific-assets-in-jekyll</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.s&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll reading time without plugins</title>
+   <link href="https://aboutgrau.com/jekyll-reading-time-without-plugins.html"/>
+   <updated>2018-09-20T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/jekyll-reading-time-without-plugins</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to add an RSS feed to a Jekyll blog</title>
+   <link href="https://aboutgrau.com/how-to-add-an-rss-feed-to-a-jekyll-blog.html"/>
+   <updated>2018-09-11T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/how-to-add-an-rss-feed-to-a-jekyll-blog</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Top plugins for Wordpress websites</title>
+   <link href="https://aboutgrau.com/top-plugins-for-wordpress-websites.html"/>
+   <updated>2018-08-18T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/top-plugins-for-wordpress-websites</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Install Jekyll on Mac OS</title>
+   <link href="https://aboutgrau.com/install-jekyll-on-mac-os.html"/>
+   <updated>2018-06-14T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/install-jekyll-on-mac-os</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Applying the active class for the current page in Jekyll</title>
+   <link href="https://aboutgrau.com/applying-the-active-class-for-the-current-page-in-jekyll.html"/>
+   <updated>2018-06-07T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/applying-the-active-class-for-the-current-page-in-jekyll</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Displaying GitHub Gists in Jekyll sites</title>
+   <link href="https://aboutgrau.com/displaying-github-gists-in-jekyll-sites.html"/>
+   <updated>2018-05-13T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/displaying-github-gists-in-jekyll-sites</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Disable Jekyll&apos;s default syntax highlighter Rouge</title>
+   <link href="https://aboutgrau.com/disable-jekylls-default-syntax-highlighter-rouge.html"/>
+   <updated>2018-02-05T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/disable-jekylls-default-syntax-highlighter-rouge</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Image caption in Jekyll</title>
+   <link href="https://aboutgrau.com/image-captions-in-jekyll.html"/>
+   <updated>2018-02-03T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/image-captions-in-jekyll</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Showing the word count in Jekyll</title>
+   <link href="https://aboutgrau.com/showing-the-word-count.html"/>
+   <updated>2018-01-17T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/showing-the-word-count</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Custom 404 page for Jekyll on Github pages</title>
+   <link href="https://aboutgrau.com/custom-404-page-for-jekyll-on-github-pages.html"/>
+   <updated>2017-11-15T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/custom-404-page-for-jekyll-on-github-pages</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Redirect Jekyll URLs</title>
+   <link href="https://aboutgrau.com/redirect-jekyll-urls.html"/>
+   <updated>2017-11-10T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/redirect-jekyll-urls</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Creating navigation menu in Jekyll</title>
+   <link href="https://aboutgrau.com/creating-navigation-menu-in-jekyll.html"/>
+   <updated>2017-01-03T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/creating-navigation-menu-in-jekyll</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Structured Data markup validation and testing tools</title>
+   <link href="https://aboutgrau.com/structured-data-markup-validation-and-testing-tools.html"/>
+   <updated>2016-12-11T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/structured-data-markup-validation-and-testing-tools</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Top monospaced fonts for coding</title>
+   <link href="https://aboutgrau.com/top-monospaced-fonts-for-coding.html"/>
+   <updated>2016-11-27T00:00:00+01:00</updated>
+   <id>https://aboutgrau.com/top-monospaced-fonts-for-coding</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Places where you can learn how to code</title>
+   <link href="https://aboutgrau.com/places-where-you-can-learn-how-to-code.html"/>
+   <updated>2015-07-31T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/places-where-you-can-learn-how-to-code</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CSS hacks you may not know</title>
+   <link href="https://aboutgrau.com/css-hacks-you-may-not-know.html"/>
+   <updated>2014-05-12T00:00:00+02:00</updated>
+   <id>https://aboutgrau.com/css-hacks-you-may-not-know</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;.♫ { background: #222; color: #FFF; } 
+.ಠ_ಠ { background: #ccc; color: #fff; }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;a { text-decoration: overline red wavy; }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.&lt;/p&gt;
+
+&lt;p&gt;Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90’s. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.&lt;/p&gt;
+
+&lt;p&gt;VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.&lt;/p&gt;
+
+&lt;p&gt;Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.&lt;/p&gt;
+
+&lt;p&gt;Actually hella you probably haven’t heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
